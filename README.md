@@ -31,6 +31,6 @@ Seu desafio é criar um site de uma loja com um carrinho de compras! O modelo fi
 # Techs: 
 - HTML e CSS
 
-
+<br><br>
 
 Desafio criado por  <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Emmanuel Messias</a> :)
